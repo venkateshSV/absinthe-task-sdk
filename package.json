@@ -1,0 +1,27 @@
+{
+  "name": "absinthe-task-sdk",
+  "version": "0.0.1",
+  "description": "Typescript SDK that allows clients to issue points for their users. This gives projects the ultimate flexibility to issue points for off-chain actions, not only on-chain ones that can be indexed for on the blockchain.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/venkateshSV/absinthe-task-sdk"
+  },
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "absinthe",
+    "loyalty",
+    "points",
+    "rewards"
+  ],
+  "author": "Venkatesh",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  }
+}
