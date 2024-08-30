@@ -11,7 +11,7 @@ export type CreateProjectResponse = {
 
 export type FetchProjectsResponse = {
   success: string
-  data?: String[] | undefined
+  data?: string[] | undefined
   error?: string
 }
 export type PointsData = {
