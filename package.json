@@ -1,6 +1,6 @@
 {
   "name": "absinthe-task-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript SDK that allows clients to issue points for their users. This gives projects the ultimate flexibility to issue points for off-chain actions, not only on-chain ones that can be indexed for on the blockchain.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
